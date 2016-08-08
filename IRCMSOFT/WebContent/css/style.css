@@ -1,0 +1,83 @@
+h1 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#tabs-2 input[type="text"] {
+	width: 300px;
+}
+
+td, th {
+    padding: 4px; 
+}
+
+#set {
+	margin: 20px 0px 20px 0px;
+}
+
+#set input {
+	margin-right: 5px;
+}
+
+#dialog input[type="submit"] {
+	float: right;
+}
+
+.main_block {
+	margin: auto;
+	margin-top: 150px;
+	padding: 20px 0px 20px 70px;
+	width: 270px;
+	border: 3px solid #F6A822;
+	box-shadow: 0 0 3px 2px #F6A822;
+	border-radius: 2px;
+}
+
+.main_block input[type="submit"] {
+	width: 206px;
+}
+
+#login, #pass {
+	width: 200px;
+	height: 25px;
+}
+
+#dialog input[type="text"] {
+	position: absolute;
+	left: 200px;
+	width: 500px;
+}
+
+#dialog textarea, #dialog select {
+	position: absolute;
+	left: 200px;
+}
+
+#dialog textarea {
+	width: 500px;
+	height: 100px;
+	resize: none;
+}
+
+#dialog input[type="submit"] {
+	margin-right: 40px;
+}
+
+#dialog div {
+	height: 100px;
+}
+
+#tabs-2 input[type="text"] {
+	width: 700px;
+}
+
+#tabs-2 table td {
+	vertical-align: top;
+}
+
+#tabs-2 table textarea {
+	width: 700px;
+	height: 100px;
+	resize: none;
+}
